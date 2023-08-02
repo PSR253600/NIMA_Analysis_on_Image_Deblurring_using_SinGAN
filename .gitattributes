@@ -1,0 +1,7 @@
+346_HUAWEI-MATE20_F_256x256_randomsamples.zip filter=lfs diff=lfs merge=lfs -text
+346_HUAWEI-MATE20_M_256x256_randomsamples.zip filter=lfs diff=lfs merge=lfs -text
+122_HONOR-7X_F_256x256_randomsamples.zip filter=lfs diff=lfs merge=lfs -text
+122_HONOR-7X_M_256x256_randomsamples.zip filter=lfs diff=lfs merge=lfs -text
+NIMA_analysis.pptx filter=lfs diff=lfs merge=lfs -text
+NIMAScores_and_PSNRs.zip filter=lfs diff=lfs merge=lfs -text
+blur_dataset.zip filter=lfs diff=lfs merge=lfs -text
