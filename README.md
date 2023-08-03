@@ -8,7 +8,9 @@ A publicly available dataset comprised of 1050 blurred and sharp images (350 tri
 The dataset was created to validate the blur detection algorithm.
 
 Check-out the following links to download the dataset:
+
 [Link to download from Kaggle](https://www.kaggle.com/kwentar/blur-dataset)
+
 [Link to download from Google Drive](https://drive.google.com/file/d/1RObmCDPeQ1Lg-V6u7dT02Pf0qH-QMcTp/view)
 
 
